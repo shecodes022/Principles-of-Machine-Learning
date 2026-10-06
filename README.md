@@ -1,11 +1,11 @@
 # Principles of Machine Learning 🤖
 
-This repository contains my learning materials and lab exercises for ECS7020P Principles of Machine Learning.
+This repository contains my learning materials and lab exercises for Principles of Machine Learning.
 
 
-## About ECS7020P Principles of Machine Learning ❓
+## About Principles of Machine Learning ❓
 
-ECS7020P introduces the core ideas behind machine learning and how to apply them in practice. The labs follow the path from representing and manipulating data, through regression and model validation, to building and evaluating classifiers.
+This module introduces the core ideas behind machine learning and how to apply them in practice. The labs follow the path from representing and manipulating data, through regression and model validation, to building and evaluating classifiers.
 
 For practical implementation, Python and its libraries for scientific computing, data analysis, visualisation and machine learning are used in Jupyter notebooks on Google Colab.
 
@@ -109,7 +109,7 @@ For practical implementation, Python and its libraries for scientific computing,
 ├── W5 - Lab5
 │   └── Lab_5.ipynb
 └── W6 - Lab6
-    └── ECS7020P_Lab06.ipynb
+    └── Lab_6.ipynb
 ```
 
 
